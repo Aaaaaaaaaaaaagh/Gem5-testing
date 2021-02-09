@@ -1,0 +1,1 @@
+Readme here isn't necessary. This is Gem5 with some minor code changes to show that processors with integer compute units aren't as fast at running float calculations as hardware designed to do it.
